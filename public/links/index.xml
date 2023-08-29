@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Welcome to Sams Corner</title>
+	<link>http://example.org/links/</link>
+	<description>Recent content in Links on Welcome to Sams Corner</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://example.org/links/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Kindle, read anything for free*</title>
+		<link>http://example.org/blog/kindle/</link>
+		<pubDate>Tue, 29 Aug 2023 22:01:26 +0200</pubDate>
+		
+		<guid>http://example.org/blog/kindle/</guid>
+		<description>&lt;h1 id=&#34;im-too-weak-to-carry-books&#34;&gt;I&amp;rsquo;m too weak to carry books&lt;/h1&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
